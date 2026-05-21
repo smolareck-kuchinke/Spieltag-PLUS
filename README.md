@@ -20,3 +20,21 @@ Dabei wurden unterschiedliche Bereiche berücksichtigt:
 ### Screenshot
 
 ![Wildes Brainstorming](images/wildes-brainstorming.png)
+
+---
+
+## 2. Zeitliche Sortierung
+
+In der zweiten Phase habe ich die Domain Events zeitlich sortiert.  
+Dadurch wurden erste Prozessketten, fachliche Zusammenhänge und mögliche Domänengrenzen sichtbar.
+
+Besonders deutlich wurden dabei:
+- Ticketing-Prozesse
+- Stadionzugang
+- Spielbetrieb
+- Community-Funktionen
+- Sicherheits- und KI-Prozesse
+
+### Screenshot
+
+![Zeitliche Sortierung](images/zeitsortierung.png)
