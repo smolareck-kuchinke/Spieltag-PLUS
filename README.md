@@ -19,4 +19,4 @@ Dabei wurden unterschiedliche Bereiche berücksichtigt:
 
 ### Screenshot
 
-![Wildes Brainstorming](images/eventstorming-wildes-brainstorming.png)
+![Wildes Brainstorming](images/wildes-brainstorming.png)
