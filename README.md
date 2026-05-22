@@ -73,7 +73,7 @@ Zusätzlich wurden Hotspots ergänzt, um offene Fragen, Risiken und Unsicherheit
 ![Transition Borders](images/transitionborders.png)
 
 
-# OOD-E1 – Core Domain Chart
+# OOD-E2 – Core Domain Chart
 
 Für Spieltag PLUS wurden die identifizierten Domains anhand von Business Differentiation ujd Model Complexity analysiert und eingeordnet.
 
