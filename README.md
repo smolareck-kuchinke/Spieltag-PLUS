@@ -84,7 +84,7 @@ Der Spielbetrieb bildet das zentrale Herzstück der Plattform.
 Live-Spielereignisse, Echtzeitdaten und Spielanalysen erzeugen den größten fachlichen Mehrwert.
 
 ### KI 
-KI-gestützte Analysen, Crowd Detection und personalisierte Empfehlungen stellen ein wesentliches Unterscheidungsmerkmal gegenüber klassischen Stadion- oder Ticketplattformen dar.
+KI-gestützte Analysen, Erkennung von Menschenansammlungen, personalisierte Empfehlungen etc. stellen ein wesentliches Unterscheidungsmerkmal gegenüber klassischen Plattformen dar.
 
 ---
 
