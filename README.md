@@ -28,9 +28,11 @@ Dabei wurden unterschiedliche Bereiche berücksichtigt:
 ## 2. Zeitliche Sortierung
 
 In der zweiten Phase habe ich die Domain Events zeitlich sortiert.  
-Dadurch wurden erste Prozessketten, fachliche Zusammenhänge und mögliche Domänengrenzen sichtbar.
+Dadurch wurden erste Prozessketten, fachliche Zusammenhänge und mögliche Domaingrenzen sichtbar.
+Die zeitliche Sortierung stellt bei mir keine vollständig lineare Prozesskette dar.  
+Es sind mehrere parallele fachliche Abläufe und Event-Ströme sichtbar vor allem bei den KI und Community-Prozessen.
 
-Besonders deutlich wurden dabei:
+Domains:
 - Ticketing-Prozesse
 - Stadionzugang
 - Spielbetrieb
