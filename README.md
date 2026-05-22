@@ -142,21 +142,21 @@ Die Community-Domäne übernimmt Benutzerinformationen und Rollenmodelle der Ben
 ### Ticketing → Stadionzugang
 **Relationship:** Customer / Supplier
 
-Das Ticketing-System liefert Ticket- und Reservierungsdaten an den Stadionzugang, welcher diese Informationen zur Einlasskontrolle verwendet.
+Das Ticketing-System liefert Ticket- und Reservierungsdaten an den Stadionzugang, der diese Informationen zur Einlasskontrolle verwendet.
 
 ---
 
 ### Stadionzugang ↔ Sicherheit
 **Relationship:** Partnership
 
-Stadionzugang und Sicherheitsdomäne arbeiten eng zusammen, beispielsweise bei Sperrungen, Sicherheitsvorfällen oder Eskalationen im Stadionbetrieb.
+Stadionzugang und Sicherheitsdmain arbeiten eng zusammen, beispielsweise bei Sperrungen oder Sicherheitsvorfällen im Stadionbetrieb.
 
 ---
 
 ### Spielbetrieb ↔ KI
 **Relationship:** Partnership
 
-Die KI-Domäne analysiert Live-Spielereignisse und verarbeitet Echtzeitdaten des Spielbetriebs, um Analysen und Empfehlungen zu erzeugen.
+Die KI-Domäne analysiert Live-Spielereignisse und verarbeitet Echtzeitdaten des Spielbetriebs, um Analysen und Empfehlungen an User zu erzeugen.
 
 ---
 
