@@ -115,3 +115,61 @@ Kann aber wachsen, je nachdem wie sich die Interaktion entwickeln. Es könnnten 
 ### Screenshot
 
 ![Core-Domain-Chart-Matrix ](images/matrix.png)
+
+
+## OOD-E3 – Domain Mappings
+
+Für Spieltag PLUS wurden die identifizierten Domänen über Context Mapping miteinander verbunden.
+
+Dabei wurden typische DDD-Relationships verwendet, um fachliche und technische Abhängigkeiten sichtbar zu machen.
+
+## Beziehungen der Domains
+
+### Benutzerverwaltung → Ticketing
+**Relationship:** Open Host Service
+
+Die Benutzerverwaltung stellt standardisierte Authentifizierungs- und Benutzerinformationen bereit, die vom Ticketing-System genutzt werden.
+
+---
+
+### Benutzerverwaltung → Community
+**Relationship:** Conformist
+
+Die Community-Domäne übernimmt Benutzerinformationen und Rollenmodelle der Benutzerverwaltung und passt sich an diese an.
+
+---
+
+### Ticketing → Stadionzugang
+**Relationship:** Customer / Supplier
+
+Das Ticketing-System liefert Ticket- und Reservierungsdaten an den Stadionzugang, welcher diese Informationen zur Einlasskontrolle verwendet.
+
+---
+
+### Stadionzugang ↔ Sicherheit
+**Relationship:** Partnership
+
+Stadionzugang und Sicherheitsdomäne arbeiten eng zusammen, beispielsweise bei Sperrungen, Sicherheitsvorfällen oder Eskalationen im Stadionbetrieb.
+
+---
+
+### Spielbetrieb ↔ KI
+**Relationship:** Partnership
+
+Die KI-Domäne analysiert Live-Spielereignisse und verarbeitet Echtzeitdaten des Spielbetriebs, um Analysen und Empfehlungen zu erzeugen.
+
+---
+
+### Sicherheit ↔ KI
+**Relationship:** Partnership
+
+KI-gestützte Sicherheitsanalysen unterstützen die Erkennung von Eskalationen, Betrugsversuchen oder Notfällen im Stadion.
+
+---
+
+## Domain Mapping Diagramm
+
+![Domain Mapping](images/domain-mapping.png)
+
+
+
