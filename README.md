@@ -38,3 +38,30 @@ Besonders deutlich wurden dabei:
 ### Screenshot
 
 ![Zeitliche Sortierung](images/zeitsortierung.png)
+
+---
+
+## 3. Transition Borders & Domains
+
+In der dritten Phase des Event Stormings habe ich Domains identifiziert.  
+
+Identifizierte Domänen:
+- Benutzerverwaltung
+- Ticketing
+- Stadionzugang
+- Spielbetrieb
+- Community 
+- Sicherheit
+- KI 
+
+Zusätzlich wurden Hotspots ergänzt, um offene Fragen, Risiken und Unsicherheiten innerhalb der Domain sichtbar zu machen.
+
+Beispiele:
+- Erkennung gefälschter Tickets
+- Moderation problematischer Inhalte
+- Transparenz von KI-Empfehlungen
+- Verarbeitung von Sicherheitsvorfällen
+
+### Screenshot
+
+![Transition Borders](images/trnistionborders.png)
