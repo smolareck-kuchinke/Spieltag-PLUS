@@ -1,5 +1,7 @@
 # Spieltag-PLUS
-AI-gestützte Fußball-Management- und Fanplattform
+
+Spieltag PLUS ist eine digitale Plattform für Fußballvereine, Fans und Stadionbetreiber mit Funktionen für Ticketing, Community, Sicherheit, KI-Analysen und Spieltagsmanagement.
+Alles in einem! 
 
 
 # OOD-E1 – Event Storming
