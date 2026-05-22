@@ -71,3 +71,40 @@ Zusätzlich wurden Hotspots ergänzt, um offene Fragen, Risiken und Unsicherheit
 ### Screenshot
 
 ![Transition Borders](images/transitionborders.png)
+
+
+# OOD-E1 – Core Domain Chart
+
+Für Spieltag PLUS wurden die identifizierten Domains anhand von Business Differentiation ujd Model Complexity analysiert und eingeordnet.
+
+## Core Domains
+
+### Spielbetrieb
+Der Spielbetrieb bildet das zentrale Herzstück der Plattform.  
+Live-Spielereignisse, Echtzeitdaten und Spielanalysen erzeugen den größten fachlichen Mehrwert.
+
+### KI 
+KI-gestützte Analysen, Crowd Detection und personalisierte Empfehlungen stellen ein wesentliches Unterscheidungsmerkmal gegenüber klassischen Stadion- oder Ticketplattformen dar.
+
+---
+
+## Supporting Domains
+
+### Ticketing
+Ticketing ist wichtig für die Plattform, stellt jedoch keine einzigartige Kernfunktion dar.
+
+### Community 
+Die Community erhöht die Nutzerbindung, ist jedoch unterstützend zum eigentlichen Spieltagserlebnis.
+
+### Stadionzugang
+Der Stadionzugang unterstützt den operativen Ablauf des Spieltags.
+
+### Sicherheit & Moderation
+Sicherheits- und Moderationsfunktionen sind wichtig für Stabilität und Compliance.
+
+---
+
+## Generic Domains
+
+### Benutzerverwaltung
+Benutzerverwaltung ist eine generische Standardfunktion und könnte durch externe Lösungen bereitgestellt werden.
