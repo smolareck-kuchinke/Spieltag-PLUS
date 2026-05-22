@@ -91,20 +91,27 @@ KI-gestützte Analysen, Crowd Detection und personalisierte Empfehlungen stellen
 ## Supporting Domains
 
 ### Ticketing
-Ticketing ist wichtig für die Plattform, stellt jedoch keine einzigartige Kernfunktion dar.
+Ticketing ist wichtig für die Plattform, stellt jedoch keine einzigartige Kernfunktion dar. Kann spter auch ausgesourced werden.
 
-### Community 
-Die Community erhöht die Nutzerbindung, ist jedoch unterstützend zum eigentlichen Spieltagserlebnis.
 
 ### Stadionzugang
 Der Stadionzugang unterstützt den operativen Ablauf des Spieltags.
 
-### Sicherheit & Moderation
-Sicherheits- und Moderationsfunktionen sind wichtig für Stabilität und Compliance.
+### Sicherheit
+Umfasst KI-gestützte Stadionüberwachung, Menschenansammlungen, Betrugserkennung, Eskalationsmanagement und Notfallerkennung, somit hochkomplex. 
+Fussballspiele ziehen immer mehr Massen an, Fans esklaieren mehr (Bengalos etc.), Sicherheit wird zukünftig in den Core reingehen, da es dadurch komplexer wird und alle Situationen bedacht werden müssen, was es einzigartiger macht.
 
 ---
 
 ## Generic Domains
 
 ### Benutzerverwaltung
-Benutzerverwaltung ist eine generische Standardfunktion und könnte durch externe Lösungen bereitgestellt werden.
+Benutzerverwaltung ist eine Standardfunktion und könnte durch externe DL bereitgestellt werden.
+
+### Community 
+Die Community erhöht die Nutzerbindung, ist jedoch nur ergänzend zum eigentlichen Spieltagserlebnis.
+Kann aber wachsen, je nachdem wie sich die Interaktion entwickeln. Es könnnten hier zukünftig neue Punkte wie reale Fantreffen etc. organisiert werden.
+
+### Screenshot
+
+![Core-Domain-Chart-Matrix ](images/matrix.png)
