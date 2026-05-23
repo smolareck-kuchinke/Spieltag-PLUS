@@ -3,6 +3,13 @@
 Spieltag PLUS ist eine digitale Plattform für Fußballvereine, Fans und Stadionbetreiber mit Funktionen für Ticketing, Community, Sicherheit, KI-Analysen und Spieltagsmanagement.
 Alles in einem! 
 
+## Inhalte
+
+- OOD-E1 – Event Storming
+- OOD-E2 – Core Domain Chart
+- OOD-E3 – Domain Mapping
+- OOD-E4 – Bounded Context Canvas
+
 
 # OOD-E1 – Event Storming
 
