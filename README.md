@@ -172,4 +172,9 @@ KI-gestützte Sicherheitsanalysen unterstützen die Erkennung von Eskalationen, 
 ![Domain Mapping](images/domain-mapping.png)
 
 
+## OOD-E4 – Bounded Context Canvas
+
+![Bounded Context Canvas](images/bounded-context-canvas.png)
+
+
 
